@@ -19,7 +19,6 @@ import PurchaseTicket from "./PurchaseTicket";
 import { useRouter } from "next/navigation";
 import { useStorageUrl } from "@/lib/utils";
 import Image from "next/image";
-import logo from "@/public/logo.png";
 
 export default function EventCard({ eventId }: { eventId: Id<"events"> }) {
   const { user } = useUser();
