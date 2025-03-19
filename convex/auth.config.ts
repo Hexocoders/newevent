@@ -1,7 +1,7 @@
 export default {
   providers: [
     {
-      domain: "enabling-orca-72.clerk.accounts.dev",
+      domain: "clerk.accounts.dev",
       applicationID: "convex",
     },
   ],
