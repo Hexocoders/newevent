@@ -1,7 +1,7 @@
 export default {
   providers: [
     {
-      domain: "https://fresh-monster-41.clerk.accounts.dev/",
+      domain: "enabling-orca-72.clerk.accounts.dev",
       applicationID: "convex",
     },
   ],
